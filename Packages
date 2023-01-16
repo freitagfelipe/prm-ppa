@@ -1,0 +1,11 @@
+Package: prm
+Version: 0.1.0
+Architecture: amd64
+Maintainer: Felipe Rodrigues de Santana Freitag <felipefreitag08@hotmail.com>
+Filename: ./prm_0.1.0_amd64.deb
+Size: 263324
+MD5sum: f6e01e794f614243f8dca66018731a41
+SHA1: 45a0ab2b73a0b4927ac15a4062616fbfa984d5e8
+SHA256: b89c23856b072b72ccbb6ac9405dd6b61058b5c2a55023c5e81e8e3146fd294b
+Description: PRM is a Personal Repository Manager.
+

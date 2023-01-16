@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/prm.gpg] https://freitagfelipe.github.io/prm-ppa ./
