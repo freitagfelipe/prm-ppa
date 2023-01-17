@@ -20,3 +20,14 @@ SHA1: 9925a4c51d91fe25608899a70ac2c393bc864ccf
 SHA256: 4b8f2cc6a5016084215ef40f049de6893cd8bf695f49d5dfe26ccc479a23ab64
 Description: PRM is a Personal Repository Manager.
 
+Package: prm
+Version: 0.1.2
+Architecture: amd64
+Maintainer: Felipe Rodrigues de Santana Freitag <felipefreitag08@hotmail.com>
+Filename: ./prm_0.1.2_amd64.deb
+Size: 263220
+MD5sum: e0e2b9b96449f60f6f59a07b46cc3f2f
+SHA1: 6e812bdbd173fabc61df81f8e137d794def0ed1f
+SHA256: 98ea3ac1f6ae8005c66585dc3bf50ace2e241f5e55f4a9f99f0aada5865910a6
+Description: PRM is a Personal Repository Manager.
+
